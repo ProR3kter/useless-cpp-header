@@ -1,4 +1,4 @@
-#include "pure_hell.h"
+#include "pure_hell.h" // Do not forget to include the header file in your main script
 
 // If statement
 DataTypeBoolean i Equal true;                                                                // bool i = true;
